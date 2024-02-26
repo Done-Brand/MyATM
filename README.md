@@ -1,18 +1,11 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">MyATM</h3>
 
   <p align="center">
     ATM with basic banking transaction functionalitites
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -31,9 +24,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -56,35 +46,26 @@
 
 
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Using C# I wrote a console application that simulated an Automated Teller Machine.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Features:
+* A login screen that requires the user to enter their account number and PIN.
+* An interface that displays the user's account balance and allows them to perform various transactions, such as
+withdrawing funds, depositing funds, and transferring funds.
+* The ability to verify that the user has sufficient funds or a valid account before completing any transactions.
+* An error-handling mechanism that ensures that the program can handle unexpected input or execute without errors.
+* Logging functionality that records user transactions and system exceptions for later auditing purposes.
+* The program assumes there are only three pre-existing accounts, which are initialized in the accounts array.
+* The program uses a do-while loop to repeatedly prompt the user to enter their account number and PIN until valid
+credentials are entered.
+* The program uses a switch statement to process the user's choice from the main menu. The withdraw, deposit, and
+transfer functions all modify the account balance by reference, so changes made to the account balance are persistent
+across menu choices.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+(Account No, PIN)
+(1234567890, "1234"),
+(0876543210, "5678"),
+(0987654321, "8765")
 
 
 
