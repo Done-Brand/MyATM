@@ -52,7 +52,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[!Alt text]("C:\Users\admin\Documents\GitHub\MyATM\ATM\images\Top.png")
+![Top](https://github.com/Done-Brand/MyATM/assets/111229240/a14718fc-c761-41bb-b69d-4dcb84ef7d0d)
+
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
