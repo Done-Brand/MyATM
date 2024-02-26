@@ -1,0 +1,10 @@
+ User : 123456789 Previous Balance : 1000 , Deposited : 100 Current balance : 1100 Date and Time : 2023/06/26 10:40:01
+ User : 123456789 Previous Balance : 1100 , WithDraw : 50 Current balance : 1050 Date and Time : 2023/06/26 10:40:39
+ User : 123456789 Previous Balance : 1050 , Transfered : 500 Current balance : 550 Date and Time : 2023/06/26 10:41:50
+ User : 123456789 Previous Balance : 1000 , WithDraw : 500 Current balance : 500 Date and Time : 2023/07/02 19:15:31
+ User : 123456789 Previous Balance : 500 , Deposited : 5000 Current balance : 5500 Date and Time : 2023/07/02 19:15:46
+ User : 123456789 Previous Balance : 5500 , Transfered : 1000 Current balance : 4500 Date and Time : 2023/07/02 19:16:52
+ User : 123456789 Previous Balance : 1000 , Deposited : 5000 Current balance : 6000 Date and Time : 2023/07/04 21:09:31
+ User : 123456789 Previous Balance : 6000 , Deposited : 4000 Current balance : 10000 Date and Time : 2023/07/04 21:09:38
+ User : 123456789 Previous Balance : 10000 , WithDraw : 4500 Current balance : 5500 Date and Time : 2023/07/04 21:09:57
+ User : 123456789 Previous Balance : 5500 , Transfered : 500 Current balance : 5000 Date and Time : 2023/07/04 21:10:18

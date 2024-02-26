@@ -1,0 +1,5 @@
+Please Choose from 1- 6 , Date of Exception : 2023/06/26 10:36:08
+Please Choose from 1- 6 , Date of Exception : 2023/07/04 21:09:07
+Please Type a Integer NOT Text(Input string was not in a correct format.) Date of Exception : 2023/07/04 21:11:05
+Please Choose from 1- 6 , Date of Exception : 2023/07/04 21:11:10
+Please Choose from 1- 6 , Date of Exception : 2024/02/23 14:27:02
