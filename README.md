@@ -42,9 +42,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Top](https://github.com/Done-Brand/MyATM/assets/111229240/077c5290-eb1c-405a-a398-618d41b2af24)
-
-
 
 Using C# I wrote a console application that simulated an Automated Teller Machine.
 
@@ -66,7 +63,6 @@ across menu choices.
 (1234567890, "1234"),
 (0876543210, "5678"),
 (0987654321, "8765")
-
 
 
 <!-- GETTING STARTED -->
@@ -108,21 +104,25 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This is how the project desktop looks like. A you can see there are different options to choose from and it is easily navigated from here.
+![FrontPage](https://github.com/Done-Brand/MyATM/assets/111229240/c5eb98e7-99f8-444a-9d90-cde484175f39)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+After you have signed in you will see this page - Please see above the Account numbers and PINs.
+![ProjectDesktop](https://github.com/Done-Brand/MyATM/assets/111229240/32549f7a-a662-4166-a559-5396948bb16f)
+
+It is easily naviagted from here, there are also a text file updating with every transaction made by a specific useer.
+![TransactionHistory](https://github.com/Done-Brand/MyATM/assets/111229240/5d550ba1-2e6c-4401-827f-546d8b2157af)
+
+With another file displaying each exception as well as the date and time, to review what went wrong.
+![ExceptionHistoy](https://github.com/Done-Brand/MyATM/assets/111229240/a3e9eb49-67ec-4e79-b2d5-ca450b7df03e)
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Doné Barnd - donedev8@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
