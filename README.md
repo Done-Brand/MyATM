@@ -35,7 +35,7 @@
 
 ## About The Project
 
-Using C# I wrote a console application that simulated an Automated Teller Machine.
+This is a console application, written in C#, that simulates an Automated Teller Machine.
 
 Features:
 * A login screen that requires the user to enter their account number and PIN.
@@ -63,7 +63,7 @@ To run this project locally follow the following steps
 
 1. Download the entire project folder from github
 2. Paste the project folder in any directory that does not need admin privillages.
-3. Open Visual studio and navigate tot the "File" -> "Open" -> "Project", search for the directory of the Atm project
+3. Open Visual studio and navigate to the "File" -> "Open" -> "Project", search for the directory of the Atm project
 4. Click Run on Visual Studio!
 
 ## Usage
