@@ -52,7 +52,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Top](https://github.com/Done-Brand/MyATM/assets/111229240/a14718fc-c761-41bb-b69d-4dcb84ef7d0d)
+![Top](https://github.com/Done-Brand/MyATM/assets/111229240/077c5290-eb1c-405a-a398-618d41b2af24)
+
 
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
