@@ -52,8 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-addd]](![image](https://github.com/Done-Brand/MyATM/images/Top.png)
-)
+[!Alt text]("C:\Users\admin\Documents\GitHub\MyATM\ATM\images\Top.png")
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
